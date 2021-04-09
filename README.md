@@ -8,7 +8,6 @@
  🌱 I’m currently learning about UI/UX, Front End, Flutter Development
 <!--👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about everything!
 <!--📫 How to reach me:  -->
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: love about mobile design but easly get sidetracked by new tech such as flutter
