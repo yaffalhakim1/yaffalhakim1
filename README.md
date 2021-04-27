@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/yaffalhakim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="yaffalhakim1" height="30" width="40" /></a>
-<a href="https://twitter.com/yaff_alhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="yaff_alhakim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-yafi-alhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-yafi-alhakim" height="30" width="40" /></a>
-<a href="https://instagram.com/yaff_alhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="yaff_alhakim" height="30" width="40" /></a>
+<a href="https://codepen.io/yaffalhakim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="yaffalhakim1" height="30" width="40" /></a><br>
+<a href="https://twitter.com/yaff_alhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="yaff_alhakim" height="30" width="40" /></a><br>
+<a href="https://linkedin.com/in/muhammad-yafi-alhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-yafi-alhakim" height="30" width="40" /></a><br>
+<a href="https://instagram.com/yaff_alhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="yaff_alhakim" height="30" width="40" /></a><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
