@@ -21,6 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaffalhakim1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="yaffalhakim1" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaffalhakim1&show_icons=true&theme=tokyonight&locale=en" alt="yaffalhakim1" /></p>
 
 
