@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yafi</h1>
-<h3 align="center">A passionate Frontend Web Developer from Indonesia!</h3>
+<h3 align="center">A passionate Flutter Developer from Indonesia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaffalhakim1&label=Profile%20views&color=0e75b6&style=plastic" alt="yaffalhakim1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaffalhakim1" alt="yaffalhakim1" /></a> </p>
 
-- 🌱 I’m currently learning **reactjs, flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at [https://yaff.netlify.app/](https://yaff.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, Js**
 
 - 📫 How to reach me **yafialhakim64@gmail.com**
 
