@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [https://yaff.netlify.app/](https://yaff.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/yafi_alhakim](https://linktr.ee/yafi_alhakim)
 
 - 📫 How to reach me **yafialhakim64@gmail.com**
 
