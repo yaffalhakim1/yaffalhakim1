@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **flutter, dart**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/yafi_alhakim](linktr.ee/yafi_alhakim)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/yafi_alhakim](https://linktr.ee/yafi_alhakim)
 
 - 💬 Ask me about **flutter**
 
