@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/yafi_alhakim](https://linktr.ee/yafi_alhakim)
 
-- 💬 Ask me about **flutter**
-
 - 📫 How to reach me **yafialhakim64@gmail.com**
 
 - ⚡ Fun fact **i always learning something new!**
