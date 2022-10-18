@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **flutter, dart**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/yafi_alhakim](https://linktr.ee/yafi_alhakim)
-
 - 📫 How to reach me **yafialhakim64@gmail.com**
 
 - ⚡ Fun fact **i always learning something new!**
