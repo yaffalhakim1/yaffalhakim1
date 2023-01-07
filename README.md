@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sipalingnormal" target="blank"><img src="https://img.shields.io/twitter/follow/yaff_alhakim?logo=twitter&style=for-the-badge" alt="yaff_alhakim" /></a> </p>
 
-- 🌱 I’m currently learning **flutter, dart**
+- 🌱 I’m currently learning **flutter, dart, typescript, and javascript** 
 
 - 📫 How to reach me **yafialhakim64@gmail.com**
 
