@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React/NextJs and Flutter Developer
 ----------------------------------
 
-Hi there! I'm a final year student with a passion for web development. I have experience working with React JS, NextJS, Flutter and I am always looking to learn more. I'm dedicated to creating clean, functional, and responsive web applications that provide an excellent user experience. When I'm not coding, I enjoy staying up-to-date with the latest trends in technology and spending time with my friends and family.
+Hi there! I have experience working with React JS, NextJS, Flutter and I am always looking to learn more. I'm dedicated to creating clean, functional, and responsive web applications that provide an excellent user experience. When I'm not coding, I enjoy staying up-to-date with the latest trends in technology and spending time with my friends and family.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [portfolio](http://yafialhakim.vercel.app)
