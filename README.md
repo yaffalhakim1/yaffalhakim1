@@ -13,6 +13,7 @@ Hi there! I have experience working with React JS, NextJS, Flutter and I am alwa
 
 <a href="https://www.github.com/yaffalhakim1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yaffalhakim1?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=yaffalhakim1)
 
 ### Skills
 
