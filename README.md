@@ -1,19 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Yafi Alhakim
-=============================================================================================================================================
 
-Frontend Engineer 😎
-----------------------------------
+<a href="http://www.github.com/yaffalhakim1"><img src="https://github-readme-stats.vercel.app/api?username=yaffalhakim1&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaffalhakim1's GitHub stats" /></a>
 
-Hi there! I have experience working with React JS, NextJS, and I am always looking to learn more. I'm dedicated to creating clean, functional, and responsive web applications that provide an excellent user experience. When I'm not coding, I enjoy staying up-to-date with the latest trends in technology and spending time learning something new.
+## Intro
+Hello! My name is Muhammad Yafi Alhakim, but you can call me Yaf. I work full-time as a Frontend Engineer and also have experience in Fullstack development through freelance and side projects. I’m very passionate about modern mobile and web technologies, always keeping developer experience (DX) in mind.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [portfolio](http://yafialhakim.vercel.app)
+* 🖥️  See my portfolio [here](http://yafialhakim.vercel.app)
 * ✉️  You can contact me at [yafialhakim64@gmail.com](mailto:yafialhakim64@gmail.com)
 * 🧠  I'm learning backend engineering
 
 <a href="https://www.github.com/yaffalhakim1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yaffalhakim1?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 ![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=yaffalhakim1)
+
+## Career
+
+I work full-time remotely as a Frontend Engineer at [MySkill](https://myskill.id) and take care of the web that serve over 2M Daily Active Users.
 
 ### Skills
 
@@ -38,7 +40,5 @@ src="https://img.shields.io/github/followers/yaffalhakim1?logo=github&style=for-
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/yaffalhakim1"><img src="https://github-readme-stats.vercel.app/api?username=yaffalhakim1&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaffalhakim1's GitHub stats" /></a>
 
 <a href="https://github.com/yaffalhakim1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaffalhakim1&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
