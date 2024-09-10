@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Yafi Alhakim
 =============================================================================================================================================
 
-React/NextJs and Flutter Developer
+Frontend Engineer 😎
 ----------------------------------
 
-Hi there! I have experience working with React JS, NextJS, Flutter and I am always looking to learn more. I'm dedicated to creating clean, functional, and responsive web applications that provide an excellent user experience. When I'm not coding, I enjoy staying up-to-date with the latest trends in technology and spending time with my friends and family.
+Hi there! I have experience working with React JS, NextJS, and I am always looking to learn more. I'm dedicated to creating clean, functional, and responsive web applications that provide an excellent user experience. When I'm not coding, I enjoy staying up-to-date with the latest trends in technology and spending time learning something new.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [portfolio](http://yafialhakim.vercel.app)
 * ✉️  You can contact me at [yafialhakim64@gmail.com](mailto:yafialhakim64@gmail.com)
-* 🧠  I'm learning nextjs
+* 🧠  I'm learning backend engineering
 
 <a href="https://www.github.com/yaffalhakim1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yaffalhakim1?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
