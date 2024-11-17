@@ -1,5 +1,5 @@
 
-<a href="http://www.github.com/yaffalhakim1"><img src="https://github-readme-stats.vercel.app/api?username=yaffalhakim1&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaffalhakim1's GitHub stats" /></a>
+
 
 ## Intro
 Hello! My name is Muhammad Yafi Alhakim, but you can call me Yaf. I work full-time as a Frontend Engineer and also have experience in Fullstack development through freelance and side projects. I’m very passionate about modern mobile and web technologies, always keeping developer experience (DX) in mind.
