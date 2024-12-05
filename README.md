@@ -12,6 +12,7 @@ Hello! My name is Muhammad Yafi Alhakim, but you can call me Yaf. I work full-ti
 <a href="https://www.github.com/yaffalhakim1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yaffalhakim1?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 ![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=yaffalhakim1)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30576%26project%3D%26in=0)](https://codetime.dev)
 
 ## Career
 
