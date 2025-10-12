@@ -4,10 +4,9 @@
 ## Intro
 Hello! My name is Muhammad Yafi Alhakim, but you can call me Yaf. I work full-time as a Frontend Engineer and also have experience in Fullstack development through freelance and side projects. I’m very passionate about modern mobile and web technologies, always keeping developer experience (DX) in mind.
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio [here](http://yafialhakim.vercel.app)
+* 🖥️  See my portfolio [here](https://yafialhakim.netlify.app) or [here](http://43.133.147.94/)
 * ✉️  You can contact me at [yafialhakim64@gmail.com](mailto:yafialhakim64@gmail.com)
-* 🧠  I'm learning backend engineering
+* 🧠  I do backend and devops also
 
 <a href="https://www.github.com/yaffalhakim1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yaffalhakim1?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
