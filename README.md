@@ -42,3 +42,5 @@ I work full-time remotely as a Frontend Engineer at [MySkill](https://myskill.id
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/yaffalhakim1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaffalhakim1&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/64fe6ef75ce9f4ca58b04968?variant=dark)](https://roadmap.sh)
