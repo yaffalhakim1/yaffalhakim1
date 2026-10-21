@@ -1,13 +1,15 @@
+# Muhammad Yafi Alhakim
 
+Frontend and sometimes backend at [myskill.id](https://myskill.id/) [clicky.id](https://clicky.id)
 
+I spend most of my time on frontend work, and on personal projects outside of it. I like native apps over webviews, so my side projects are mostly Rust and Go desktop tools, with some Kotlin for Android when I want something on my phone.
 
-## Intro
-Hello! My name is Muhammad Yafi Alhakim, but you can call me Yaf. I work full-time as a Frontend Engineer and also have experience in Fullstack development through freelance and side projects. I’m very passionate about modern mobile and web technologies, always keeping developer experience (DX) in mind.
+Things I have built that people actually use:
 
-* 🖥️  See my portfolio [here](https://yafialhakim.netlify.app)
-* ✉️  You can contact me at [yafialhakim64@gmail.com](mailto:yafialhakim64@gmail.com)
-* 🧠  I do backend and devops also
+- nowplaying-windows, a Windows taskbar now-playing display
+- sweep, a disk cleanup tool for build output
 
-## Career
+Outside of code I play Wuchang: Fallen Feathers and Cyberpunk 2077, and I keep a Mazda2 RZ 2013 on the road. Some of those turned into small projects too, like a game checklist and a service tracker.
 
-I work full-time remotely as a Frontend Engineer at [MySkill](https://myskill.id) and take care of the web that serve over 2M Daily Active Users.
+- Website: https://yaffalhakim1.github.io/
+- LinkedIn: https://www.linkedin.com/in/yafialhakim/
