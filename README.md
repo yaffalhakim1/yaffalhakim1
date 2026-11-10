@@ -1,27 +1,33 @@
 # Muhammad Yafi Alhakim
 
-**Frontend Engineer at [MySkill.id](https://myskill.id/)** · React, Next.js, TypeScript · Remote, Indonesia (UTC+7)
+**Frontend Engineer at [MySkill.id](https://myskill.id/)** · React, Next.js, TypeScript · Remote, Jakarta (UTC+7)
 
-I build production web apps for a living, and on the side I build native desktop and Android tools in Rust, Go and Kotlin. I care about performance, local-first design, and shipping things people can actually install and use.
+I ship production web apps for a living, and on the side I build native desktop and Android tools in Rust, Go and Kotlin. I care about performance, local-first design, and building things people can actually install and use.
 
-[Website](https://yafialhakim.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/yafialhakim/)
-
-<!-- Add an email or "Open to work" line here if you want recruiters to reach you directly. -->
+[Website](https://yaffalhakim1.github.io) · [LinkedIn](https://www.linkedin.com/in/yafialhakim/) · [Blog](https://yafi.hashnode.dev) · [Email](mailto:yafialhakim64@gmail.com)
 
 ---
 
 ## Day job
 
-Frontend (and occasionally backend) work at [MySkill.id](https://myskill.id/) and [clicky.id](https://clicky.id).
+**Frontend Engineer, [MySkill.id](https://myskill.id/)** (2024 to present, remote)
+An education and job-prep platform with B2B products such as [clicky.id](https://clicky.id).
 
-**Core stack:** TypeScript · JavaScript · React · Next.js · Redux · Supabase · Figma
-**Also:** Flutter/Dart, Rust, Go, Kotlin, C#
+- Maintain and improve a web platform serving 1.2M daily active users.
+- Grew the international user base by 20% by shipping multi-language support.
+- Built performant web apps that lowered bounce rate and raised engagement.
+- Active in code reviews, and involved from first commit through deployment.
+
+**Before that:** Frontend Engineer Trainee at Sea Labs Indonesia (Shopee's tech division), where I graduated as **Top Graduate in the Frontend stream**. Earlier, I built an internal accreditation-document web app for Diponegoro University (Next.js, TypeScript, Firebase). B.Eng. in Computer Engineering, Diponegoro University.
+
+**Core stack:** TypeScript · JavaScript · React · Next.js · Node.js · Redux · Tailwind · Supabase · Design Systems · WebSockets/WebRTC
+**Also:** Rust, Go, Kotlin, Flutter/Dart, C#
 
 ---
 
 ## Featured projects
 
-### [Kerenzikov](https://github.com/yaffalhakim1/Kerenzikov-app): native app for coding agents
+### [Kerenzikov](https://github.com/yaffalhakim1/Kerenzikov-app): native app for coding agents ([demo](https://kerenzikov.pages.dev/))
 `Rust` · `GPUI` · `SQLite` · `Bun`
 
 A Windows and Android fork of [egoist/waku](https://github.com/egoist/waku), focused on OpenCode and also working with Claude Code, Codex CLI, Amp and Cursor CLI.
@@ -41,10 +47,15 @@ A terminal-themed habit tracker with RPG-style XP, HP and streaks.
 - 15 themes, installable PWA, works offline, no backend.
 - Auto-deployed to GitHub Pages on push.
 
-### [opencode-mobile](https://github.com/yaffalhakim1/opencode-mobile): Android client for OpenCode
+### [opencode-mobile](https://github.com/yaffalhakim1/opencode-mobile): Android client for OpenCode ([demo](https://yaffalhakim1.github.io/opencode-mobile/))
 `Kotlin` · `Jetpack Compose` · `Material 3`
 
-A native Android client for a self-hosted OpenCode server. Published as signed APK releases (Android 8.0+), with 15+ tagged versions so far.
+A native Android client for a self-hosted OpenCode server. Watch replies arrive word by word, answer questions inline, approve the files it edits. Shipped as signed APK releases (Android 8.0+).
+
+### [playlist](https://github.com/yaffalhakim1/playlist): native YouTube playlist player ([demo](https://yaffalhakim1.github.io/playlist/))
+`Go` · `MyGo`
+
+Paste a playlist link and it plays: no browser tab, no webview. Ships for Windows and Linux, and caches playlists so replays work offline.
 
 ---
 
@@ -54,8 +65,14 @@ A native Android client for a self-hosted OpenCode server. Published as signed A
 |---|---|---|
 | [sweep](https://github.com/yaffalhakim1/sweep) | Finds build output eating your disk and removes it in one pass | Go, MyGo |
 | [ports](https://github.com/yaffalhakim1/ports) | Lists listening TCP ports on Windows; open, restart or stop the owning process | MyGo |
-| [playlist](https://github.com/yaffalhakim1/playlist) | Native desktop player for YouTube playlists, with offline replay of cached playlists | Desktop, ffmpeg |
 | [nowplaying-windows](https://github.com/yaffalhakim1/nowplaying-windows) | Shows the current track on the Windows taskbar via the media session API | C#, WinForms |
+| [yaffalhakim1.github.io](https://github.com/yaffalhakim1/yaffalhakim1.github.io) | This portfolio: a custom static-site generator with Markdown posts, syntax highlighting, RSS, a sitemap and a GitHub Actions deploy | Rust, Axum, Askama |
+
+---
+
+## Writing
+
+I'm learning Rust in public and explaining it for frontend developers: traits as TypeScript interfaces, lifetimes as "timeline contracts", and so on. Read it on [Hashnode](https://yafi.hashnode.dev) or on my [site](https://yaffalhakim1.github.io/blog). I also contributed to the Indonesian translation of the React docs ([id.react.dev](https://github.com/reactjs/id.react.dev)).
 
 ---
 
